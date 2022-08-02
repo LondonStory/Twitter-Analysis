@@ -1,5 +1,6 @@
-# Twitter-Analysis
-Codes &amp; notebooks to scrape tweets and analyse their contents and accounts' metadata.
+# Twitter analysis
+
+Codes and notebooks to scrape tweets, accounts' metadata and analyse textual contents by employing standard NLP pipelines.
 
 Contents:
 
