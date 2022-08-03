@@ -6,4 +6,6 @@ Contents:
 
 1. [Scraping tweets, metadata associated with an account and replies to a particular tweet by using Twint](https://github.com/LondonStory/Twitter-Analysis/blob/main/twitter-scraping-using-twint.ipynb)
 
-2. [Embedding tweet replies by using Universal Sentence Encoder (USE), and clustering them using t-Distributed Stochastic Neighbor Embedding (t-SNE)](https://github.com/LondonStory/Twitter-Analysis/blob/main/USE-sentence-embeddings-and-t-SNE-visualization.ipynb)
+2. [Investigating the Twitter accounts through Botometer](https://github.com/LondonStory/Twitter-Analysis/blob/main/botometer.ipynb)
+
+3. [Embedding tweet replies by using Universal Sentence Encoder (USE), and clustering them using t-Distributed Stochastic Neighbor Embedding (t-SNE)](https://github.com/LondonStory/Twitter-Analysis/blob/main/USE-sentence-embeddings-and-t-SNE-visualization.ipynb)
