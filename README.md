@@ -1,8 +1,8 @@
 # Twitter analysis
 
-Codes and notebooks to scrape tweets, accounts' metadata and analyse textual contents by employing standard NLP pipelines.
+Codes and notebooks to scrape tweets, accounts' metadata and analyse textual contents by employing standard NLP techniques, like latent space text clustering.
 
-Contents:
+**Contents**
 
 1. [Scraping tweets, metadata associated with an account and replies to a particular tweet by using Twint](https://github.com/LondonStory/Twitter-Analysis/blob/main/twitter-scraping-using-twint.ipynb)
 
