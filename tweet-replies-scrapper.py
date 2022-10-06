@@ -16,13 +16,13 @@ username = 'larrouturou'
 conversation_id = '1541498855061164034'
 
 # provide the number of most recent tweets you want to scrape
-N = 100000
+N = 10000
 
 # provide the beginning date ( '%Y-%m-%d %H:%M:%S' format)
-since_date = '2022-06-27 01:01:01'
+since_date = '2022-06-27 12:30:00'
 
 # provide the end date
-until_date = '2022-07-02 24:60:60'
+until_date = '2022-06-28 23:00:00'
 
 
 #---------------Scrape tweet replies----------------
