@@ -10,19 +10,21 @@ nest_asyncio.apply()
 #---------------Declare parameters-----------------
 
 # provide username
-username = 'larrouturou'
+#username = 'larrouturou'
+username = 'alviinaalametsa'
 
 # provide conversation id for which we want to scrape the replies
-conversation_id = '1541498855061164034'
+#conversation_id = '1541498855061164034'   # the case of larrouturou
+conversation_id = '1542440102332342278'    # the case of alviinaalametsa
 
 # provide the number of most recent tweets you want to scrape
 N = 10000
 
 # provide the beginning date ( '%Y-%m-%d %H:%M:%S' format)
-since_date = '2022-06-27 12:30:00'
+since_date = '2022-06-01 01:00:00'
 
 # provide the end date
-until_date = '2022-06-28 23:00:00'
+until_date = '2022-07-01 23:00:00'
 
 
 #---------------Scrape tweet replies----------------
@@ -39,7 +41,7 @@ def get_replies (user_name, conversation_id, num, since_date, until_date):
     replies.To = user_name
     replies.Since = since_date
     replies.Until = until_date
-    replies.Limit = num
+    #replies.Limit = num
 
 
     replies.Store_object =  True
