@@ -10,8 +10,8 @@ Codes and notebooks to scrape tweets, accounts' metadata and analyse textual con
 
 3. [Embedding tweet replies by using Universal Sentence Encoder (USE), and clustering them using t-Distributed Stochastic Neighbor Embedding (t-SNE)](https://github.com/LondonStory/Twitter-Analysis/blob/main/USE-sentence-embeddings-and-t-SNE-visualization.ipynb)
 
-4. [Getting Botometer scores for all Twitter accounts for Alviina Alametsä and Pierre Larrouturou use-cases](https://github.com/LondonStory/Twitter-Analysis/blob/main/botometer-scores-twitter-replies.ipynb)
+4. [Getting Botometer scores for all Twitter accounts for Alviina Alametsä and Pierre Larrouturou use-cases](https://github.com/LondonStory/Twitter-Analysis/blob/main/botometer-scores-twitter-replies.ipynb). The output scores with full dataset can be found [HERE](https://github.com/LondonStory/Twitter-Analysis/tree/main/output)
 
 5. [Analysis of the botometer scores and annotations](https://github.com/LondonStory/Twitter-Analysis/blob/main/Alametsa-CSV-analysis.ipynb)
 
-6. [Scraping the historical data of selected Twitter handles](https://github.com/LondonStory/Twitter-Analysis/blob/main/scrape-list-of-twitter-handles.ipynb). The datasets can be found [HERE](https://github.com/LondonStory/Twitter-Analysis/tree/main/Twitter-Accounts-Historical-Data).
+6. [Scraping the historical data of selected Twitter handles](https://github.com/LondonStory/Twitter-Analysis/blob/main/scrape-list-of-twitter-handles.ipynb). The datasets can be found [HERE](https://github.com/LondonStory/Twitter-Analysis/tree/main/Twitter-Accounts-Historical-Data)
