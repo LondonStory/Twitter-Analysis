@@ -15,3 +15,5 @@ Codes and notebooks to scrape tweets, accounts' metadata and analyse textual con
 5. [Analysis of the botometer scores and annotations](https://github.com/LondonStory/Twitter-Analysis/blob/main/Alametsa-CSV-analysis.ipynb)
 
 6. [Scraping the historical data of selected Twitter handles](https://github.com/LondonStory/Twitter-Analysis/blob/main/scrape-list-of-twitter-handles.ipynb). The datasets can be found [HERE](https://github.com/LondonStory/Twitter-Analysis/tree/main/Twitter-Accounts-Historical-Data)
+
+7. [Extract hashtags and mentions for Gephi plots - preparation of the datasets](https://github.com/LondonStory/Twitter-Analysis/blob/main/Network-Analysis-of-Tweets.ipynb)
