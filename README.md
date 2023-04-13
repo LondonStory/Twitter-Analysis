@@ -17,3 +17,5 @@ Codes and notebooks to scrape tweets, accounts' metadata and analyse textual con
 6. [Scraping the historical data of selected Twitter handles](https://github.com/LondonStory/Twitter-Analysis/blob/main/scrape-list-of-twitter-handles.ipynb). The datasets can be found [HERE](https://github.com/LondonStory/Twitter-Analysis/tree/main/Twitter-Accounts-Historical-Data)
 
 7. [Extract hashtags and mentions for Gephi plots - preparation of the datasets](https://github.com/LondonStory/Twitter-Analysis/blob/main/Network-Analysis-of-Tweets.ipynb). The Gephi dataset can be found [HERE](https://github.com/LondonStory/Twitter-Analysis/tree/main/Gephi%20).
+
+8. [Extract the replies to Jagmeet Singh's Twitter status and cross-checking the account handles](https://github.com/LondonStory/Twitter-Analysis/blob/main/twitter-scraping-with-tweepy.ipynb)
